@@ -1,0 +1,10 @@
+{
+    "DEFAULT": {
+        "DRIVER_PATH": "./driver/chromedriver.exe",
+        "URL_LINKEDIN": "https://linkedin.com",
+        "DEMO_MODE": "True",
+        "USERNAME": "123123@123123.com",
+        "PASSWORD": "123123123",
+        "MENSAJE": ", mucho gusto, por favor sigue mi web https://www.linkedin.com/company/codeecuador/?viewAsMember=true"
+    }
+}
